@@ -5,7 +5,7 @@ import AppsCard from '../Components/AppsCard/AppsCard';
 
 export const TrendingApps = ({ data }) => {
   const appsToDisplay = data.slice(0, 8);
-  console.log(appsToDisplay);
+  // console.log(appsToDisplay);
   return (
     <>
       <div className='bg-[#D2D2D2] py-10 text-center'>

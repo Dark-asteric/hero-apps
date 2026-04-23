@@ -19,7 +19,15 @@ export const Apps = () => {
                 setLoading(false);
             });
     }, []);
-    if (loading) return <div>Loading...</div>;
+
+    if (loading) {
+        return (
+            <div className="min-h-screen flex items-center justify-center bg-white">
+                <span className="loading loading-spinner loading-xl"></span>
+            </div>
+        );
+    }
+
     return (
         <>
             <AllApps key={data.id} data={data} />

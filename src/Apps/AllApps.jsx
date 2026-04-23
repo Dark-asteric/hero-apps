@@ -77,7 +77,7 @@ export const AllApps = ({ data }) => {
             <AppsCard key={app.id} app={app} />
         ));
     };
-
+    // console.log("navigation", navigation);
     return (
         <>
             {/* <div className='bg-[#D2D2D2] py-10 text-center'>
@@ -112,21 +112,9 @@ export const AllApps = ({ data }) => {
                     )}
                 </div>
             </div> */}
+
             {isNavigating && (
-                <div
-                    style={{
-                        position: 'fixed',
-                        inset: 0,
-                        zIndex: 9999,
-                        backgroundColor: 'rgba(210, 210, 210, 0.80)',
-                        backdropFilter: 'blur(4px)',
-                        display: 'flex',
-                        flexDirection: 'column',
-                        alignItems: 'center',
-                        justifyContent: 'center',
-                        gap: '14px',
-                    }}
-                >
+                <div>
                     <span className="loading loading-spinner loading-xl" style={{ color: '#632EE3' }}></span>
                     <p style={{ color: '#632EE3', fontWeight: 600, fontSize: '16px' }}>Loading page...</p>
                 </div>
@@ -144,7 +132,7 @@ export const AllApps = ({ data }) => {
                     </h1>
  
                     <div className='relative'>
-                        <span className='absolute left-3 top-1/2 -translate-y-1/2 pointer-events-none select-none'>
+                        <span className='absolute left-2 top-1/2 -translate-y-1/2 pointer-events-none select-none'>
                             🔍
                         </span>
                         {isSearching && (
