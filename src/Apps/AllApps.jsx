@@ -142,7 +142,7 @@ export const AllApps = ({ data }) => {
                             ></span>
                         )}
                         <input
-                            className='pl-8 pr-10 py-2 rounded-md border border-[#627382] bg-white focus:outline-none focus:ring-2 focus:ring-[#632EE3] transition-all'
+                            className='px-8 py-2 rounded-md border border-[#627382] bg-white focus:outline-none focus:ring-2 focus:ring-[#632EE3] transition-all'
                             type="text"
                             placeholder="Search Apps"
                             onChange={e => setSearch(e.target.value)}

@@ -162,7 +162,7 @@ export const Installation = () => {
                         <select
                             value={sortOrder}
                             onChange={handleSortChange}
-                            className='rounded-sm border p-10 border-gray-300 bg-[#D2D2D2] border-gray-400 text-gray-500 font-regular'
+                            className='rounded-sm border px-4 py-2 border-gray-300 bg-[#D2D2D2] border-gray-400 text-gray-500 font-regular'
                         >
                             <option className='p-5' value=''>Sort By Downloads</option>
                             <option value='high-low'>High to Low</option>
@@ -204,11 +204,11 @@ export const Installation = () => {
                                             <h1 className='text-xl text-black font-semibold'>{app.title}</h1>
                                             <div className='flex gap-5 mt-2'>
                                                 <div className='flex items-center'>
-                                                    <img className='w-[16px] h-[16px] ' src="/public/icon-downloads.png" alt="" />
+                                                    <img className='w-[16px] h-[16px] ' src="/icon-downloads.png" alt="" />
                                                     <p className='text-[#00D390] ml-1'>{app.downloads}</p>
                                                 </div>
                                                 <div className='flex items-center'>
-                                                    <img className='w-[16px] h-[16px] ' src="/public/icon-ratings.png" alt="" />
+                                                    <img className='w-[16px] h-[16px] ' src="/icon-ratings.png" alt="" />
                                                     <span className='text-[#FF8811] ml-1'>{app.ratingAvg}</span>
                                                 </div>
                                                 <div className='flex gap-1 items-center'>
