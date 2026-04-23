@@ -27,7 +27,7 @@ const Navbar = () => {
     }
 
     return (
-        <div className="navbar bg-white px-15">
+        <div className="navbar bg-white px-10">
             <div className="navbar-start">
                 <div className="dropdown">
                     <ul
@@ -38,7 +38,7 @@ const Navbar = () => {
                 </div>
                 <NavLink to="/">
                     <div className='flex items-center'>
-                        <img className='w-12 h-12 hover:cursor-pointer' src="/logo.png" alt="" />
+                        <img className='w-10 h-10 hover:cursor-pointer' src="/logo.png" alt="" />
                         <a className="btn btn-ghost text-xl text-transparent bg-gradient-to-br from-[#632EE3] to-[#9F62F2] bg-clip-text">HERO.IO</a>
                     </div>
                 </NavLink>
@@ -49,7 +49,7 @@ const Navbar = () => {
                 </ul>
             </div>
             <div className="navbar-end"> 
-                <a href="https://github.com/Dark-asteric" className='flex items-center gap-2 border-none bg-gradient-to-br from-[#632EE3] to-[#9F62F2] text-white py-3 px-5 rounded-sm hover:bg-gradient-to-br hover:from-[#8259e1] hover:to-[#ad7eef]'> <i className="fa-brands fa-github"></i>Contribute</a>
+                <a href="https://github.com/Dark-asteric" className='flex items-center gap-2 border-none bg-gradient-to-br from-[#632EE3] to-[#9F62F2] text-white py-2 px-5 rounded-sm hover:bg-gradient-to-br hover:from-[#8259e1] hover:to-[#ad7eef]'> <i className="fa-brands fa-github"></i>Contribute</a>
             </div>
         </div>
     )

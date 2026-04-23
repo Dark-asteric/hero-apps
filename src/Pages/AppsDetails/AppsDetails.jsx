@@ -8,34 +8,25 @@ function AppDetails() {
     const app = location.state?.app;
     const [isInstalled, setIsInstalled] = useState(false);
 
-    // Check if app is already installed on component mount
     useEffect(() => {
-        // Only run if app exists
         if (!app || !app.id) return;
-
         const installedApps = JSON.parse(localStorage.getItem('installedApps')) || [];
         const isAppInstalled = installedApps.some(appItem => appItem.id === app.id);
         setIsInstalled(isAppInstalled);
-    }, [app?.id]); // Use app?.id instead of app to avoid unnecessary re-renders
+    }, [app?.id]);
 
     const handleInstall = () => {
         if (!app || !app.id) {
             toast.error('App information not available!');
             return;
         }
-
-        // Get existing installed apps from localStorage
         const installedApps = JSON.parse(localStorage.getItem('installedApps')) || [];
-
-        // Check if already installed
         const isAlreadyInstalled = installedApps.some(appItem => appItem.id === app.id);
 
         if (isAlreadyInstalled) {
             toast.error('This app is already installed!');
             return;
         }
-
-        // Add app to installed apps list
         const newInstalledApps = [...installedApps, {
             id: app.id,
             title: app.title,
@@ -48,13 +39,8 @@ function AppDetails() {
             installedAt: new Date().toISOString()
         }];
 
-        // Save to localStorage
         localStorage.setItem('installedApps', JSON.stringify(newInstalledApps));
-
-        // Update state
         setIsInstalled(true);
-
-        // Show success toast
         toast.success(`${app.title} installed successfully!`, {
             duration: 3000,
             position: 'top-right',
@@ -109,8 +95,8 @@ function AppDetails() {
                             onClick={handleInstall}
                             disabled={isInstalled}
                             className={`px-8 py-3 rounded-lg font-semibold text-white transition-all duration-300 ${isInstalled
-                                    ? 'bg-gray-400 cursor-not-allowed'
-                                    : 'bg-[#00D390] text-white text-[20px] mt-4 hover:cursor-pointer font-semibold py-2 px-5 rounded-lg hover:opacity-90 transition-opacity hover:shadow-lg hover:scale-105'
+                                ? 'bg-gray-400 cursor-not-allowed mt-4'
+                                : 'bg-[#00D390] text-white text-[20px] mt-4 hover:cursor-pointer font-semibold py-2 px-5 rounded-lg hover:opacity-90 transition-opacity hover:shadow-lg hover:scale-105'
                                 }`}
                         >
                             {isInstalled ? '✓ Installed' : 'Install Now' + ` (${app.size} MB)`}

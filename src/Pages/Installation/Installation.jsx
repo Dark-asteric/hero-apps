@@ -162,9 +162,9 @@ export const Installation = () => {
                         <select
                             value={sortOrder}
                             onChange={handleSortChange}
-                            className='rounded-sm border border-gray-300 bg-[#D2D2D2] border-gray-400 text-gray-500 font-regular'
+                            className='rounded-sm border p-10 border-gray-300 bg-[#D2D2D2] border-gray-400 text-gray-500 font-regular'
                         >
-                            <option value=''>Sort By Downloads</option>
+                            <option className='p-5' value=''>Sort By Downloads</option>
                             <option value='high-low'>High to Low</option>
                             <option value='low-high'>Low to High</option>
                         </select>

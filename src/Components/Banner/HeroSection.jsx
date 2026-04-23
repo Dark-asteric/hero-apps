@@ -5,6 +5,7 @@ import { TrendingApps } from '../../Apps/TrendingApps'
 const HeroSection = () => {
   return (
     <>
+    
       <div className='bg-[#D2D2D2] flex flex-col items-center px-15'>
         <p className='text-black font-bold text-6xl text-center mt-10 leading-18'>We Build <br /> <span className='bg-gradient-to-br from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent'>Productive</span> Apps</p>
         <p className='text-[#627382] text-center font-light text-xl mt-10'>At HERO.IO, we craft innovative apps designed to make everyday life simpler, smarter, and more exciting. <br /> Our goal is to turn your ideas into digital experiences that truly make an impact.</p>
