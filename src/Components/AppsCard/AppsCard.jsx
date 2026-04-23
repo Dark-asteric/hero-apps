@@ -7,7 +7,7 @@ const AppsCard = ({ app }) => {
     return (
         <Link to={`/apps/${app.id}`} state={{ app }} className='bg-white hover:cursor-pointer'>
             <div className='flex items-start justify-center py-5'>
-                <img className='w-[330px] h-[320px] rounded-lg' src={app.image} alt={app.name} />
+                <img className='w-[330px] h-[320px] rounded-lg object-cover' src={app.image} alt={app.name} />
             </div>
             <div className='pl-5 flex flex-col items-start'>
                 <h1 className='text-xl text-black font-semibold mb-2'>{app.title}</h1>

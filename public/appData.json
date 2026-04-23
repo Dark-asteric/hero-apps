@@ -7,8 +7,8 @@
     "reviews": "24.9M",
     "ratingAvg": 4.6,
     "size": 85.4,
-    "image": "https://picsum.photos/seed/spotify/100/100",
-    "description": "Listen to music, podcasts, and audiobooks. Discover new artists, create playlists, and enjoy millions of tracks ad-free with Premium.",
+    "image": "/src/assets/demo-app-1.webp",
+    "description": "Welcome to Spotify, the ultimate music streaming platform designed for music lovers everywhere.\n\nKey Features:\n- Access over 100 million songs and 5 million podcasts.\n- Create unlimited playlists and share them with friends.\n- High-quality audio streaming up to 320kbps.\n- Offline listening mode for Premium subscribers.\n- Personalized Daily Mixes and Discover Weekly.\n\nPrivacy & Security:\nWe value your privacy. Your listening data is encrypted.\nWe do not sell your personal information to third parties.\n\nSystem Requirements:\niOS 14.0 or later, Android 5.0 or later.\nMinimum 100MB free storage space required.\n\nSupport:\n24/7 customer support available via in-app chat.\nVisit our help center for troubleshooting guides.",
     "ratings": [
       {
         "name": "1 star",
@@ -40,8 +40,8 @@
     "reviews": "1.5M",
     "ratingAvg": 4.4,
     "size": 62.1,
-    "image": "https://picsum.photos/seed/notion/100/100",
-    "description": "The all-in-one workspace for notes, tasks, wikis, and databases. Collaborate with your team and organize everything in one place.",
+    "image": "/src/assets/demo-app-2.webp",
+    "description": "Notion is the all-in-one workspace for your notes, tasks, wikis, and databases.\n\nKey Features:\n- Drag-and-drop interface for easy organization.\n- Real-time collaboration with team members.\n- Customizable templates for every use case.\n- Integrated calendar and task management.\n- Sync across all devices instantly.\n\nPrivacy & Security:\nEnterprise-grade security with SOC 2 compliance.\nTwo-factor authentication available for all accounts.\n\nSystem Requirements:\nWeb browser or desktop app for Mac/Windows.\nStable internet connection for real-time sync.\n\nSupport:\nExtensive knowledge base and community forum.\nEmail support available for Premium plans.",
     "ratings": [
       {
         "name": "1 star",
@@ -73,8 +73,8 @@
     "reviews": "18.4M",
     "ratingAvg": 4.7,
     "size": 74.8,
-    "image": "https://picsum.photos/seed/duolingo/100/100",
-    "description": "Learn a new language for free. Fun, bite-sized lessons in Spanish, French, Japanese, and 40+ other languages. Streak-based daily practice keeps you motivated.",
+    "image": "/src/assets/demo-app-3.webp",
+    "description": "Learn a new language for free with fun, bite-sized lessons.\n\nKey Features:\n- 40+ languages including Spanish, French, and Japanese.\n- Gamified learning with streaks and leaderboards.\n- Speaking and listening exercises with AI feedback.\n- Offline lessons available for Super Duolingo.\n- Personalized learning path based on your goals.\n\nPrivacy & Security:\nYour progress is saved securely to your account.\nWe comply with GDPR and CCPA regulations.\n\nSystem Requirements:\niOS 15.0 or Android 6.0 minimum.\nMicrophone access required for speaking exercises.\n\nSupport:\nHelp center available in 10 languages.\nIn-app reporting for bug fixes and suggestions.",
     "ratings": [
       {
         "name": "1 star",
@@ -106,8 +106,8 @@
     "reviews": "892K",
     "ratingAvg": 4.5,
     "size": 110.3,
-    "image": "https://picsum.photos/seed/figma/100/100",
-    "description": "Collaborative interface design tool for teams. Prototype, design systems, and handoff — all in your browser or desktop app.",
+    "image": "/src/assets/demo-app-4.webp",
+    "description": "The collaborative interface design tool for modern teams.\n\nKey Features:\n- Real-time multiplayer editing for designers.\n- Prototyping tools with interactive components.\n- Design systems and shared libraries.\n- Developer handoff with code snippets.\n- Plugin ecosystem for extended functionality.\n\nPrivacy & Security:\nData encrypted in transit and at rest.\nGranular permission settings for files and teams.\n\nSystem Requirements:\nChrome, Firefox, or Edge browser recommended.\nDesktop app available for Mac and Windows.\n\nSupport:\nCommunity forum with active designers.\nProfessional support for Enterprise contracts.",
     "ratings": [
       {
         "name": "1 star",
@@ -139,8 +139,8 @@
     "reviews": "3.7M",
     "ratingAvg": 4.2,
     "size": 98.7,
-    "image": "https://picsum.photos/seed/slack/100/100",
-    "description": "Team communication and collaboration hub. Channels, direct messages, file sharing, and 2,000+ integrations to bring your workflow together.",
+    "image": "/src/assets/demo-app-5.webp",
+    "description": "Team communication and collaboration hub for modern work.\n\nKey Features:\n- Organized channels for topics and projects.\n- Direct messages and group huddles.\n- 2,000+ integrations with tools like Google Drive.\n- File sharing and search functionality.\n- Haptic feedback and notification customization.\n\nPrivacy & Security:\nEnterprise Key Management available.\nData residency options for global compliance.\n\nSystem Requirements:\nDesktop app for macOS, Windows, Linux.\nMobile app for iOS and Android.\n\nSupport:\n24/7 support for Enterprise Grid customers.\nSlack Help Center with extensive documentation.",
     "ratings": [
       {
         "name": "1 star",
@@ -172,8 +172,8 @@
     "reviews": "2.2M",
     "ratingAvg": 4.6,
     "size": 45.2,
-    "image": "https://picsum.photos/seed/todoist/100/100",
-    "description": "The world's #1 task manager and to-do list app. Organize your work and life with powerful project management, deadlines, and recurring tasks.",
+    "image": "/src/assets/demo-app-1.webp",
+    "description": "The world's #1 task manager and to-do list app.\n\nKey Features:\n- Natural language processing for quick entry.\n- Recurring tasks and deadline reminders.\n- Project templates and labels for organization.\n- Karma system to track productivity trends.\n- Integration with calendar and email apps.\n\nPrivacy & Security:\nEnd-to-end encryption for Premium users.\nRegular security audits and penetration testing.\n\nSystem Requirements:\nWorks on any device with a web browser.\nNative apps for all major platforms.\n\nSupport:\nEmail support with 24-hour response time.\nCommunity forums for tips and tricks.",
     "ratings": [
       {
         "name": "1 star",
@@ -205,8 +205,8 @@
     "reviews": "8.5M",
     "ratingAvg": 4.8,
     "size": 128.6,
-    "image": "https://picsum.photos/seed/canva/100/100",
-    "description": "Design anything — social posts, presentations, logos, videos, and more. Thousands of templates for every occasion, no design skills required.",
+    "image": "/src/assets/demo-app-2.webp",
+    "description": "Design anything with thousands of templates.\n\nKey Features:\n- Drag-and-drop editor for non-designers.\n- Millions of stock photos and icons.\n- Brand Kit for consistent company branding.\n- Video editing and animation tools.\n- Print products and direct delivery.\n\nPrivacy & Security:\nContent ownership remains with the creator.\nSecure payment processing for subscriptions.\n\nSystem Requirements:\nInternet connection required for cloud saving.\nMinimum 4GB RAM recommended for video editing.\n\nSupport:\n24/7 customer support via chat.\nCanva Design School for learning resources.",
     "ratings": [
       {
         "name": "1 star",
@@ -238,8 +238,8 @@
     "reviews": "428.3K",
     "ratingAvg": 4.7,
     "size": 53.9,
-    "image": "https://picsum.photos/seed/obsidian/100/100",
-    "description": "A powerful knowledge base that works on local Markdown files. Build your second brain with bidirectional links, graph view, and hundreds of plugins.",
+    "image": "/src/assets/demo-app-3.webp",
+    "description": "A powerful knowledge base that works on local Markdown files.\n\nKey Features:\n- Bidirectional links for connected thoughts.\n- Graph view to visualize knowledge networks.\n- Hundreds of community plugins.\n- Local storage ensures data ownership.\n- Customizable CSS themes.\n\nPrivacy & Security:\nYour data stays on your device.\nNo cloud sync required unless you choose it.\n\nSystem Requirements:\nWindows 10, macOS 10.13, or Linux.\nMobile apps for iOS and Android.\n\nSupport:\nActive community forum and Discord.\nDocumentation wiki for advanced usage.",
     "ratings": [
       {
         "name": "1 star",
@@ -271,8 +271,8 @@
     "reviews": "193.8K",
     "ratingAvg": 4.5,
     "size": 77.3,
-    "image": "https://picsum.photos/seed/linear/100/100",
-    "description": "Streamline software projects, sprints, and bug tracking. Built for high-performance teams with keyboard shortcuts, integrations, and blazing-fast speed.",
+    "image": "/src/assets/demo-app-4.webp",
+    "description": "Streamline software projects and bug tracking.\n\nKey Features:\n- Keyboard-first navigation for speed.\n- Automated workflows and cycles.\n- Git integration for commit tracking.\n- Custom views and filters.\n- Performance optimized for large teams.\n\nPrivacy & Security:\nSOC 2 Type II certified.\nPrivate workspaces for sensitive projects.\n\nSystem Requirements:\nWeb app or desktop client.\nBest experienced on desktop browsers.\n\nSupport:\nIntercom chat support within the app.\nPublic roadmap for feature requests.",
     "ratings": [
       {
         "name": "1 star",
@@ -304,8 +304,8 @@
     "reviews": "4.8M",
     "ratingAvg": 4.5,
     "size": 89.4,
-    "image": "https://picsum.photos/seed/headspace/100/100",
-    "description": "Meditation and mindfulness made simple. Guided sessions, sleep sounds, focus music, and stress relief exercises for every experience level.",
+    "image": "/src/assets/demo-app-5.webp",
+    "description": "Meditation and mindfulness made simple.\n\nKey Features:\n- Guided sessions for sleep and focus.\n- Sleep sounds and nightcasts.\n- Mindful exercises for kids.\n- Progress tracking and streaks.\n- Offline downloads for travel.\n\nPrivacy & Security:\nHealth data integration with Apple Health.\nSecure account management.\n\nSystem Requirements:\niOS 14.0 or Android 8.0 minimum.\nHeadphones recommended for best experience.\n\nSupport:\nHelp center with meditation guides.\nEmail support for subscription issues.",
     "ratings": [
       {
         "name": "1 star",
@@ -337,8 +337,8 @@
     "reviews": "312.9K",
     "ratingAvg": 4.4,
     "size": 143.2,
-    "image": "https://picsum.photos/seed/arc/100/100",
-    "description": "The browser that works for you — not the other way around. Spaces, split view, boosts, and a reimagined tab management experience built for focus.",
+    "image": "/src/assets/demo-app-1.webp",
+    "description": "The browser that works for you — not the other way around.\n\nKey Features:\n- Spaces for organizing different contexts.\n- Split view for multitasking.\n- Boosts to customize website appearance.\n- Built-in ad and tracker blocking.\n- Vertical tabs for better screen usage.\n\nPrivacy & Security:\nNo tracking of browsing history.\nLocal data processing for features.\n\nSystem Requirements:\nmacOS 12.0 or later (Windows in beta).\nMinimum 8GB RAM recommended.\n\nSupport:\nCommunity Discord server.\nFeedback form directly in the browser.",
     "ratings": [
       {
         "name": "1 star",
@@ -370,8 +370,8 @@
     "reviews": "248.4K",
     "ratingAvg": 4.8,
     "size": 66.1,
-    "image": "https://picsum.photos/seed/raycast/100/100",
-    "description": "Supercharged productivity launcher for Mac. Search apps, run scripts, manage snippets, control Spotify, and extend with hundreds of community extensions.",
+    "image": "/src/assets/demo-app-2.webp",
+    "description": "Supercharged productivity launcher for Mac.\n\nKey Features:\n- Search apps, files, and commands instantly.\n- Run scripts and manage snippets.\n- Control Spotify and system settings.\n- Hundreds of community extensions.\n- Customizable themes and appearance.\n\nPrivacy & Security:\nOpen source extensions for transparency.\nNo data collection without consent.\n\nSystem Requirements:\nmacOS 12.0 or later.\nKeyboard shortcut customization available.\n\nSupport:\nDocumentation and API for developers.\nCommunity Slack for troubleshooting.",
     "ratings": [
       {
         "name": "1 star",
@@ -403,8 +403,8 @@
     "reviews": "6.3M",
     "ratingAvg": 4.6,
     "size": 57.8,
-    "image": "https://picsum.photos/seed/grammarly/100/100",
-    "description": "AI-powered writing assistant that checks grammar, spelling, clarity, and tone. Works everywhere you write — emails, docs, social media, and more.",
+    "image": "/src/assets/demo-app-3.webp",
+    "description": "AI-powered writing assistant that checks grammar and tone.\n\nKey Features:\n- Real-time spelling and grammar checks.\n- Clarity and engagement suggestions.\n- Tone detection for professional writing.\n- Works in emails, docs, and social media.\n- Plagiarism detector for Premium users.\n\nPrivacy & Security:\nDoes not store sensitive information.\nGDPR and CCPA compliant.\n\nSystem Requirements:\nBrowser extension for Chrome, Safari, Edge.\nDesktop app for Windows and Mac.\n\nSupport:\nKnowledge base with writing tips.\nEmail support for account management.",
     "ratings": [
       {
         "name": "1 star",
@@ -436,8 +436,8 @@
     "reviews": "849.2K",
     "ratingAvg": 4.3,
     "size": 91.5,
-    "image": "https://picsum.photos/seed/loom/100/100",
-    "description": "Record and share video messages instantly. Replace long meetings and emails with async screen and camera recordings your team can watch anytime.",
+    "image": "/src/assets/demo-app-4.webp",
+    "description": "Record and share video messages instantly.\n\nKey Features:\n- Screen and camera recording.\n- Instant sharing via link.\n- Viewer analytics and engagement.\n- Drawing tools for emphasis.\n- Integration with Slack and Gmail.\n\nPrivacy & Security:\nPassword protection for videos.\nDomain restriction for enterprise.\n\nSystem Requirements:\nChrome extension or desktop app.\nMicrophone and camera access required.\n\nSupport:\nVideo tutorials for onboarding.\nSupport ticket system for issues.",
     "ratings": [
       {
         "name": "1 star",
@@ -469,8 +469,8 @@
     "reviews": "183.9K",
     "ratingAvg": 4.7,
     "size": 48.7,
-    "image": "https://picsum.photos/seed/craft/100/100",
-    "description": "Beautiful, fast document editor for Mac and iOS. Write notes, create documents, and collaborate with your team — all with native performance and rich formatting.",
+    "image": "/src/assets/demo-app-5.webp",
+    "description": "Beautiful, fast document editor for Mac and iOS.\n\nKey Features:\n- Native performance and rich formatting.\n- Daily notes and backlinks.\n- Collaborative editing in real-time.\n- Export to PDF, Word, and HTML.\n- Dark mode and custom themes.\n\nPrivacy & Security:\nEnd-to-end encryption for docs.\nLocal first architecture.\n\nSystem Requirements:\niOS 15.0 or macOS 11.0 minimum.\niCloud sync required for cross-device.\n\nSupport:\nCommunity forum for users.\nDirect email support for feedback.",
     "ratings": [
       {
         "name": "1 star",
@@ -502,8 +502,8 @@
     "reviews": "2.9M",
     "ratingAvg": 4.5,
     "size": 104.2,
-    "image": "https://picsum.photos/seed/miro/100/100",
-    "description": "Online collaborative whiteboard platform for teams. Mind maps, flowcharts, wireframes, sticky notes, and templates — all on an infinite canvas.",
+    "image": "/src/assets/demo-app-1.webp",
+    "description": "Online collaborative whiteboard platform for teams.\n\nKey Features:\n- Infinite canvas for brainstorming.\n- Mind maps and flowcharts.\n- Sticky notes and voting sessions.\n- Templates for agile and design.\n- Video chat integration.\n\nPrivacy & Security:\nEnterprise security controls.\nData residency options.\n\nSystem Requirements:\nWeb browser or desktop app.\nTablet support for iPad and Android.\n\nSupport:\nMiro Academy for training.\n24/7 support for Enterprise plans.",
     "ratings": [
       {
         "name": "1 star",
@@ -535,8 +535,8 @@
     "reviews": "92.8K",
     "ratingAvg": 4.3,
     "size": 71.4,
-    "image": "https://picsum.photos/seed/superhuman/100/100",
-    "description": "The fastest email experience ever made. AI triage, keyboard shortcuts, split inbox, read statuses, and follow-up reminders — reach inbox zero every day.",
+    "image": "/src/assets/demo-app-2.webp",
+    "description": "The fastest email experience ever made.\n\nKey Features:\n- AI triage for important emails.\n- Keyboard shortcuts for everything.\n- Split inbox for better focus.\n- Read statuses and follow-ups.\n- Scheduled send and snooze.\n\nPrivacy & Security:\nSOC 2 compliant infrastructure.\nNo scanning of email content for ads.\n\nSystem Requirements:\nWeb app or Mac desktop client.\nGmail or Office 365 integration.\n\nSupport:\nOnboarding session with every user.\nConcierge support via email.",
     "ratings": [
       {
         "name": "1 star",
@@ -568,8 +568,8 @@
     "reviews": "482.9K",
     "ratingAvg": 4.6,
     "size": 182.5,
-    "image": "https://picsum.photos/seed/codeium/100/100",
-    "description": "AI-powered code editor with deep context awareness. Write, edit, and debug code with an agentic AI assistant that understands your entire codebase.",
+    "image": "/src/assets/demo-app-3.webp",
+    "description": "AI-powered code editor with deep context awareness.\n\nKey Features:\n- Agentic AI assistant for coding.\n- Understands entire codebase context.\n- Auto-complete and refactoring.\n- Debugging assistance.\n- Supports multiple languages.\n\nPrivacy & Security:\nCode data not used for training.\nEnterprise privacy controls.\n\nSystem Requirements:\nWindows, Mac, or Linux.\nMinimum 16GB RAM for large projects.\n\nSupport:\nDiscord community for developers.\nDocumentation for API usage.",
     "ratings": [
       {
         "name": "1 star",
@@ -601,8 +601,8 @@
     "reviews": "317.4K",
     "ratingAvg": 4.5,
     "size": 41.3,
-    "image": "https://picsum.photos/seed/notioncal/100/100",
-    "description": "A beautifully designed calendar app that connects your time and your work. Sync Google Calendar, block focus time, and see your Notion tasks alongside your schedule.",
+    "image": "/src/assets/demo-app-4.webp",
+    "description": "A beautifully designed calendar app that connects your time and work.\n\nKey Features:\n- Sync with Google Calendar.\n- View Notion tasks alongside events.\n- Block focus time easily.\n- Quick meeting scheduling.\n- Time zone management.\n\nPrivacy & Security:\nSecure OAuth connection.\nNo data sold to third parties.\n\nSystem Requirements:\nMac desktop app or Web.\niOS app for mobile scheduling.\n\nSupport:\nHelp center integrated with Notion.\nCommunity templates for scheduling.",
     "ratings": [
       {
         "name": "1 star",
@@ -634,8 +634,8 @@
     "reviews": "641.2K",
     "ratingAvg": 4.7,
     "size": 59.8,
-    "image": "https://picsum.photos/seed/perplexity/100/100",
-    "description": "AI-powered answer engine that searches the web in real time. Ask anything and get accurate, cited answers — no more sifting through links.",
+    "image": "/src/assets/demo-app-5.webp",
+    "description": "AI-powered answer engine that searches the web in real time.\n\nKey Features:\n- Accurate answers with citations.\n- Real-time web search.\n- Follow-up questions for depth.\n- File upload for analysis.\n- Pro search for complex queries.\n\nPrivacy & Security:\nAnonymous search mode available.\nData deletion options.\n\nSystem Requirements:\nWeb app or mobile iOS/Android.\nInternet connection required.\n\nSupport:\nFAQ section on website.\nFeedback button in app interface.",
     "ratings": [
       {
         "name": "1 star",

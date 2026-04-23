@@ -5,7 +5,7 @@ const Footer = () => {
     <div className='px-15  py-5 bg-[#001931]'>
         <div className='flex justify-between items-center border-b border-[#627382] pb-2'>
             <div className='flex items-center gap-2'>
-                <img src="logo.png" alt=""  className='w-10 h-10'/>
+                <img src="/logo.png" alt=""  className='w-10 h-10'/>
                 <h1>HERO.IO</h1>
             </div>
             <div>

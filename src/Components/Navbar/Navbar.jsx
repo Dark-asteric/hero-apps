@@ -38,7 +38,7 @@ const Navbar = () => {
                 </div>
                 <NavLink to="/">
                     <div className='flex items-center'>
-                        <img className='w-12 h-12 hover:cursor-pointer' src="logo.png" alt="" />
+                        <img className='w-12 h-12 hover:cursor-pointer' src="/logo.png" alt="" />
                         <a className="btn btn-ghost text-xl text-transparent bg-gradient-to-br from-[#632EE3] to-[#9F62F2] bg-clip-text">HERO.IO</a>
                     </div>
                 </NavLink>
