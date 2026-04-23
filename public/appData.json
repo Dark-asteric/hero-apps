@@ -1,0 +1,662 @@
+[
+  {
+    "id": 1,
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "downloads": "1B",
+    "reviews": "24.9M",
+    "ratingAvg": 4.6,
+    "size": 85.4,
+    "image": "https://picsum.photos/seed/spotify/100/100",
+    "description": "Listen to music, podcasts, and audiobooks. Discover new artists, create playlists, and enjoy millions of tracks ad-free with Premium.",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 348291
+      },
+      {
+        "name": "2 star",
+        "count": 219847
+      },
+      {
+        "name": "3 star",
+        "count": 582910
+      },
+      {
+        "name": "4 star",
+        "count": 3841029
+      },
+      {
+        "name": "5 star",
+        "count": 19900026
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Notion",
+    "companyName": "Notion Labs Inc.",
+    "downloads": "50M",
+    "reviews": "1.5M",
+    "ratingAvg": 4.4,
+    "size": 62.1,
+    "image": "https://picsum.photos/seed/notion/100/100",
+    "description": "The all-in-one workspace for notes, tasks, wikis, and databases. Collaborate with your team and organize everything in one place.",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 48291
+      },
+      {
+        "name": "2 star",
+        "count": 39847
+      },
+      {
+        "name": "3 star",
+        "count": 124910
+      },
+      {
+        "name": "4 star",
+        "count": 389028
+      },
+      {
+        "name": "5 star",
+        "count": 880854
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Duolingo",
+    "companyName": "Duolingo Inc.",
+    "downloads": "500M",
+    "reviews": "18.4M",
+    "ratingAvg": 4.7,
+    "size": 74.8,
+    "image": "https://picsum.photos/seed/duolingo/100/100",
+    "description": "Learn a new language for free. Fun, bite-sized lessons in Spanish, French, Japanese, and 40+ other languages. Streak-based daily practice keeps you motivated.",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 192847
+      },
+      {
+        "name": "2 star",
+        "count": 148392
+      },
+      {
+        "name": "3 star",
+        "count": 430192
+      },
+      {
+        "name": "4 star",
+        "count": 2948372
+      },
+      {
+        "name": "5 star",
+        "count": 14655117
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Figma",
+    "companyName": "Figma Inc.",
+    "downloads": "10M",
+    "reviews": "892K",
+    "ratingAvg": 4.5,
+    "size": 110.3,
+    "image": "https://picsum.photos/seed/figma/100/100",
+    "description": "Collaborative interface design tool for teams. Prototype, design systems, and handoff — all in your browser or desktop app.",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 18294
+      },
+      {
+        "name": "2 star",
+        "count": 24810
+      },
+      {
+        "name": "3 star",
+        "count": 89201
+      },
+      {
+        "name": "4 star",
+        "count": 230481
+      },
+      {
+        "name": "5 star",
+        "count": 529261
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Slack",
+    "companyName": "Salesforce Inc.",
+    "downloads": "100M",
+    "reviews": "3.7M",
+    "ratingAvg": 4.2,
+    "size": 98.7,
+    "image": "https://picsum.photos/seed/slack/100/100",
+    "description": "Team communication and collaboration hub. Channels, direct messages, file sharing, and 2,000+ integrations to bring your workflow together.",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 182019
+      },
+      {
+        "name": "2 star",
+        "count": 148302
+      },
+      {
+        "name": "3 star",
+        "count": 412938
+      },
+      {
+        "name": "4 star",
+        "count": 1028371
+      },
+      {
+        "name": "5 star",
+        "count": 1976661
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Todoist",
+    "companyName": "Doist Inc.",
+    "downloads": "50M",
+    "reviews": "2.2M",
+    "ratingAvg": 4.6,
+    "size": 45.2,
+    "image": "https://picsum.photos/seed/todoist/100/100",
+    "description": "The world's #1 task manager and to-do list app. Organize your work and life with powerful project management, deadlines, and recurring tasks.",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 43827
+      },
+      {
+        "name": "2 star",
+        "count": 38291
+      },
+      {
+        "name": "3 star",
+        "count": 142938
+      },
+      {
+        "name": "4 star",
+        "count": 548291
+      },
+      {
+        "name": "5 star",
+        "count": 1420500
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Canva",
+    "companyName": "Canva Pty Ltd",
+    "downloads": "500M",
+    "reviews": "8.5M",
+    "ratingAvg": 4.8,
+    "size": 128.6,
+    "image": "https://picsum.photos/seed/canva/100/100",
+    "description": "Design anything — social posts, presentations, logos, videos, and more. Thousands of templates for every occasion, no design skills required.",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 58291
+      },
+      {
+        "name": "2 star",
+        "count": 42837
+      },
+      {
+        "name": "3 star",
+        "count": 198473
+      },
+      {
+        "name": "4 star",
+        "count": 1284910
+      },
+      {
+        "name": "5 star",
+        "count": 6888399
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Obsidian",
+    "companyName": "Dynalist Inc.",
+    "downloads": "5M",
+    "reviews": "428.3K",
+    "ratingAvg": 4.7,
+    "size": 53.9,
+    "image": "https://picsum.photos/seed/obsidian/100/100",
+    "description": "A powerful knowledge base that works on local Markdown files. Build your second brain with bidirectional links, graph view, and hundreds of plugins.",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 8291
+      },
+      {
+        "name": "2 star",
+        "count": 5482
+      },
+      {
+        "name": "3 star",
+        "count": 24810
+      },
+      {
+        "name": "4 star",
+        "count": 98273
+      },
+      {
+        "name": "5 star",
+        "count": 291454
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Linear",
+    "companyName": "Linear Orbit Inc.",
+    "downloads": "2M",
+    "reviews": "193.8K",
+    "ratingAvg": 4.5,
+    "size": 77.3,
+    "image": "https://picsum.photos/seed/linear/100/100",
+    "description": "Streamline software projects, sprints, and bug tracking. Built for high-performance teams with keyboard shortcuts, integrations, and blazing-fast speed.",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3829
+      },
+      {
+        "name": "2 star",
+        "count": 4918
+      },
+      {
+        "name": "3 star",
+        "count": 18273
+      },
+      {
+        "name": "4 star",
+        "count": 56482
+      },
+      {
+        "name": "5 star",
+        "count": 110345
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Headspace",
+    "companyName": "Headspace Inc.",
+    "downloads": "100M",
+    "reviews": "4.8M",
+    "ratingAvg": 4.5,
+    "size": 89.4,
+    "image": "https://picsum.photos/seed/headspace/100/100",
+    "description": "Meditation and mindfulness made simple. Guided sessions, sleep sounds, focus music, and stress relief exercises for every experience level.",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 92847
+      },
+      {
+        "name": "2 star",
+        "count": 78391
+      },
+      {
+        "name": "3 star",
+        "count": 289471
+      },
+      {
+        "name": "4 star",
+        "count": 1248390
+      },
+      {
+        "name": "5 star",
+        "count": 3120004
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Arc Browser",
+    "companyName": "The Browser Company",
+    "downloads": "3M",
+    "reviews": "312.9K",
+    "ratingAvg": 4.4,
+    "size": 143.2,
+    "image": "https://picsum.photos/seed/arc/100/100",
+    "description": "The browser that works for you — not the other way around. Spaces, split view, boosts, and a reimagined tab management experience built for focus.",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 12948
+      },
+      {
+        "name": "2 star",
+        "count": 9827
+      },
+      {
+        "name": "3 star",
+        "count": 32891
+      },
+      {
+        "name": "4 star",
+        "count": 89201
+      },
+      {
+        "name": "5 star",
+        "count": 168080
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Raycast",
+    "companyName": "Raycast Technologies Inc.",
+    "downloads": "1M",
+    "reviews": "248.4K",
+    "ratingAvg": 4.8,
+    "size": 66.1,
+    "image": "https://picsum.photos/seed/raycast/100/100",
+    "description": "Supercharged productivity launcher for Mac. Search apps, run scripts, manage snippets, control Spotify, and extend with hundreds of community extensions.",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2819
+      },
+      {
+        "name": "2 star",
+        "count": 2481
+      },
+      {
+        "name": "3 star",
+        "count": 12938
+      },
+      {
+        "name": "4 star",
+        "count": 58291
+      },
+      {
+        "name": "5 star",
+        "count": 171862
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Grammarly",
+    "companyName": "Grammarly Inc.",
+    "downloads": "100M",
+    "reviews": "6.3M",
+    "ratingAvg": 4.6,
+    "size": 57.8,
+    "image": "https://picsum.photos/seed/grammarly/100/100",
+    "description": "AI-powered writing assistant that checks grammar, spelling, clarity, and tone. Works everywhere you write — emails, docs, social media, and more.",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 98471
+      },
+      {
+        "name": "2 star",
+        "count": 82930
+      },
+      {
+        "name": "3 star",
+        "count": 284910
+      },
+      {
+        "name": "4 star",
+        "count": 1482930
+      },
+      {
+        "name": "5 star",
+        "count": 4335669
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Loom",
+    "companyName": "Loom Inc.",
+    "downloads": "20M",
+    "reviews": "849.2K",
+    "ratingAvg": 4.3,
+    "size": 91.5,
+    "image": "https://picsum.photos/seed/loom/100/100",
+    "description": "Record and share video messages instantly. Replace long meetings and emails with async screen and camera recordings your team can watch anytime.",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 28491
+      },
+      {
+        "name": "2 star",
+        "count": 34820
+      },
+      {
+        "name": "3 star",
+        "count": 112938
+      },
+      {
+        "name": "4 star",
+        "count": 289471
+      },
+      {
+        "name": "5 star",
+        "count": 383481
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Craft Docs",
+    "companyName": "Craft Docs Limited",
+    "downloads": "3M",
+    "reviews": "183.9K",
+    "ratingAvg": 4.7,
+    "size": 48.7,
+    "image": "https://picsum.photos/seed/craft/100/100",
+    "description": "Beautiful, fast document editor for Mac and iOS. Write notes, create documents, and collaborate with your team — all with native performance and rich formatting.",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2948
+      },
+      {
+        "name": "2 star",
+        "count": 3827
+      },
+      {
+        "name": "3 star",
+        "count": 18291
+      },
+      {
+        "name": "4 star",
+        "count": 48291
+      },
+      {
+        "name": "5 star",
+        "count": 110563
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Miro",
+    "companyName": "RealtimeBoard Inc.",
+    "downloads": "50M",
+    "reviews": "2.9M",
+    "ratingAvg": 4.5,
+    "size": 104.2,
+    "image": "https://picsum.photos/seed/miro/100/100",
+    "description": "Online collaborative whiteboard platform for teams. Mind maps, flowcharts, wireframes, sticky notes, and templates — all on an infinite canvas.",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 58291
+      },
+      {
+        "name": "2 star",
+        "count": 48201
+      },
+      {
+        "name": "3 star",
+        "count": 192048
+      },
+      {
+        "name": "4 star",
+        "count": 782019
+      },
+      {
+        "name": "5 star",
+        "count": 1857912
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Superhuman",
+    "companyName": "Superhuman Inc.",
+    "downloads": "500K",
+    "reviews": "92.8K",
+    "ratingAvg": 4.3,
+    "size": 71.4,
+    "image": "https://picsum.photos/seed/superhuman/100/100",
+    "description": "The fastest email experience ever made. AI triage, keyboard shortcuts, split inbox, read statuses, and follow-up reminders — reach inbox zero every day.",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 4291
+      },
+      {
+        "name": "2 star",
+        "count": 5839
+      },
+      {
+        "name": "3 star",
+        "count": 12948
+      },
+      {
+        "name": "4 star",
+        "count": 29481
+      },
+      {
+        "name": "5 star",
+        "count": 40288
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Windsurf",
+    "companyName": "Codeium Inc.",
+    "downloads": "5M",
+    "reviews": "482.9K",
+    "ratingAvg": 4.6,
+    "size": 182.5,
+    "image": "https://picsum.photos/seed/codeium/100/100",
+    "description": "AI-powered code editor with deep context awareness. Write, edit, and debug code with an agentic AI assistant that understands your entire codebase.",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 9281
+      },
+      {
+        "name": "2 star",
+        "count": 8473
+      },
+      {
+        "name": "3 star",
+        "count": 34819
+      },
+      {
+        "name": "4 star",
+        "count": 128291
+      },
+      {
+        "name": "5 star",
+        "count": 302046
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Notion Calendar",
+    "companyName": "Notion Labs Inc.",
+    "downloads": "8M",
+    "reviews": "317.4K",
+    "ratingAvg": 4.5,
+    "size": 41.3,
+    "image": "https://picsum.photos/seed/notioncal/100/100",
+    "description": "A beautifully designed calendar app that connects your time and your work. Sync Google Calendar, block focus time, and see your Notion tasks alongside your schedule.",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 6291
+      },
+      {
+        "name": "2 star",
+        "count": 8473
+      },
+      {
+        "name": "3 star",
+        "count": 34819
+      },
+      {
+        "name": "4 star",
+        "count": 89201
+      },
+      {
+        "name": "5 star",
+        "count": 178616
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Perplexity",
+    "companyName": "Perplexity AI Inc.",
+    "downloads": "15M",
+    "reviews": "641.2K",
+    "ratingAvg": 4.7,
+    "size": 59.8,
+    "image": "https://picsum.photos/seed/perplexity/100/100",
+    "description": "AI-powered answer engine that searches the web in real time. Ask anything and get accurate, cited answers — no more sifting through links.",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 9823
+      },
+      {
+        "name": "2 star",
+        "count": 11047
+      },
+      {
+        "name": "3 star",
+        "count": 48291
+      },
+      {
+        "name": "4 star",
+        "count": 168291
+      },
+      {
+        "name": "5 star",
+        "count": 403748
+      }
+    ]
+  }
+]
