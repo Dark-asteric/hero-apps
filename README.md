@@ -1,16 +1,68 @@
-# React + Vite
+HERO.IO
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+HERO.IO is a modern web application designed to showcase and manage a collection of mobile applications. It serves as a platform where users can explore trending apps, view detailed statistics and ratings, and simulate the installation process. Built with a focus on performance and user experience, it features a responsive design and interactive elements.
 
-Currently, two official plugins are available:
+🚀 Features
+-----------
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+App Discovery: Browse through a catalog of trending and all available applications.
+Search Functionality: Filter apps by title or company name with real-time search.
+App Details: View comprehensive details including descriptions, download stats, ratings, and reviews.
+Interactive Charts: Visual representation of app ratings using dynamic bar charts.
+Installation Simulation: Users can "install" and "uninstall" apps, with data persisted locally using localStorage.
+Responsive Design: Fully responsive layout optimized for desktop and mobile devices.
+Navigation & Routing: Seamless page transitions using React Router.
+Toast Notifications: Real-time feedback for user actions (install, uninstall, errors).
+Error Handling: Custom 404 error page for undefined routes.
+🛠️ Technologies Used
+Frontend Framework: React
+Routing: React Router DOM
+Styling: Tailwind CSS & DaisyUI
+Charts: Recharts
+Notifications: React Hot Toast
+Icons: FontAwesome
+State Management: React Hooks (useState, useEffect)
+Data Persistence: Browser LocalStorage
+Data Fetching: Fetch API (loading local appData.json)
 
-## React Compiler
+📂 Project Structure
+src/
+├── Components/          # Reusable UI components (Navbar, Footer, Cards, etc.)
+├── Pages/               # Main page components (Home, Apps, Details, Installation)
+├── Apps/                # Specific feature components (AllApps, TrendingApps)
+├── App.jsx              # Main App component
+└── Root.jsx             # Root layout with Navbar, Footer, and Loading state
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+🏃‍♂️ Getting Started
+To get a local copy up and running, follow these simple steps.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Prerequisites :
+
+Node.js installed
+npm or yarn package manager
+Installation
+Clone the repo
+git clone https://github.com/Dark-asteric/hero-io.git
+Install dependencies
+npm install
+Run the development server
+npm run dev
+Open in browser Navigate to http://localhost:5173 (or the port specified in your terminal).
+📸 Screenshots
+(Add screenshots of the Home, Apps, and Installation pages here)
+
+🤝 Contributing
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+Fork the Project
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
+Commit your Changes (git commit -m 'Add some AmazingFeature')
+Push to the Branch (git push origin feature/AmazingFeature)
+Open a Pull Request
+
+📧 Contact :
+Developer: Dark-asteric
+GitHub: https://github.com/Dark-asteric
+
+Copyright © 2026 HERO.IO. All rights reserved.
