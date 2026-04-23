@@ -34,7 +34,8 @@ export const Installation = () => {
         const sorted = [...installedApps].sort((a, b) => {
             const parseDownloadCount = (downloadStr) => {
                 if (!downloadStr) return 0;
-                const num = parseFloat(downloadStr.replace(/[^0-9.]/g, ''));
+                const num = parseFloat(downloadStr);
+                // console.log("parsing download count : ", downloadStr, num);
                 if (downloadStr.includes('B')) return num * 1000000000;
                 if (downloadStr.includes('M')) return num * 1000000;
                 if (downloadStr.includes('K')) return num * 1000;
@@ -43,7 +44,7 @@ export const Installation = () => {
 
             const countA = parseDownloadCount(a.downloads);
             const countB = parseDownloadCount(b.downloads);
-
+            // console.log("comparing downloads : ", a.downloads, b.downloads, countA, countB);
             if (sortOrder === 'high-low') {
                 return countB - countA;
             } else if (sortOrder === 'low-high') {

@@ -103,13 +103,13 @@ function AppDetails() {
                         </button>
                     </div>
                 </div>
-                <div className='w-[1600px] mx-auto mb-5'>
+                <div className='p-15 mb-5'>
                     <div className='border-t border-[#001931]'>
                         <h1 className='font-semibold text-[24px] text-black mt-8'>Ratings</h1>
                         {app.ratings && <RatingChart ratings={app.ratings} />}
                     </div>
                 </div>
-                <div className='w-[1600px] mx-auto'>
+                <div className='p-15 mb-5'>
                     <div className='border-t border-[#001931] pb-10'>
                         <h1 className='font-semibold text-[24px] text-black mt-10 mb-4'>Description</h1>
                         <p className='text-[#627382]'>{app.description}</p>

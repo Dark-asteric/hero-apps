@@ -14,23 +14,22 @@ export const router = createBrowserRouter([
     children: [
         {
             index: true,
-            path: "/",
             Component: Home,
         },
         {
-            path: "/apps",
+            path: "apps",
             Component: Apps,
         },
         {
-            path: "/installation",
+            path: "installation",
             Component: Installation,
         },
         {
-            path: "/apps/:id",
+            path: "apps/:id",
             Component: AppsDetails,
         },
         {
-            path: "/*",
+            path: "*",
             Component: ErrorPage,
         }
     ]
